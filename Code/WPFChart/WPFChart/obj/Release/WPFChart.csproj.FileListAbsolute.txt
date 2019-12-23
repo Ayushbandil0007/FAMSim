@@ -1,0 +1,12 @@
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\bin\Release\WPFChart.exe
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\bin\Release\WPFChart.pdb
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Release\WPFChart.csprojResolveAssemblyReference.cache
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Release\Window1.baml
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Release\Window1.g.cs
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Release\App.g.cs
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Release\WPFChart_MarkupCompile.cache
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Release\WPFChart.g.resources
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Release\WPFChart.Properties.Resources.resources
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Release\WPFChart.csproj.GenerateResource.Cache
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Release\WPFChart.exe
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Release\WPFChart.pdb

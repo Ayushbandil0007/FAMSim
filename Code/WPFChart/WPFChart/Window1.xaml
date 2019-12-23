@@ -1,0 +1,81 @@
+﻿<Window x:Class="WPFChart3D.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    KeyDown="OnKeyDown"
+    Title="3D display" Height="600" Width="800">
+    <Grid Name="mygrid"> 
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height ="*" />
+            <RowDefinition Height="Auto" MinHeight="16" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" MinWidth="98" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Viewport3D Name="mainViewport" 
+                    Grid.Column="1" 
+                    Grid.Row="0"
+                    ClipToBounds = "False"  
+                    IsHitTestVisible="false"
+                    RenderOptions.EdgeMode="Aliased">
+            <Viewport3D.Camera>
+                <OrthographicCamera x:Name="camera" Width="2"
+                    FarPlaneDistance="10"
+	                NearPlaneDistance="1" 
+	                LookDirection="0,1,-1"
+	                UpDirection="0,1,0"
+	                Position="-0.5,-4.5,4" />
+            </Viewport3D.Camera>
+            <Viewport3D.Children>
+                <ModelVisual3D x:Name="Light1">
+                    <ModelVisual3D.Content>
+                        <DirectionalLight Color="White" Direction="1, 1, -1" />
+                    </ModelVisual3D.Content>
+                </ModelVisual3D>
+                <ModelVisual3D x:Name="Light2">
+                    <ModelVisual3D.Content>
+                        <DirectionalLight Color="White" Direction="-1, 1, -1" />
+                    </ModelVisual3D.Content>
+                </ModelVisual3D>
+                <ModelVisual3D x:Name="Light3">
+                    <ModelVisual3D.Content>
+                        <DirectionalLight Color="White" Direction="0,-1,-0.5" />
+                    </ModelVisual3D.Content>
+                </ModelVisual3D>
+            </Viewport3D.Children>
+        </Viewport3D>
+
+        <Canvas x:Name="canvasOn3D"
+                Grid.Column="1"
+                Grid.Row="0"
+                Background="Transparent" 
+                MouseUp="OnViewportMouseUp"  
+                MouseDown="OnViewportMouseDown"  
+                MouseMove="OnViewportMouseMove" Margin="0,0,0,0">
+            <Label x:Name="label" Content="" Height="36.043" Canvas.Left="252.696" Canvas.Top="10" Width="212.434">
+                <Label.BindingGroup>
+                    <BindingGroup/>
+                </Label.BindingGroup>
+            </Label>
+        </Canvas>
+
+
+
+        <TextBlock x:Name ="statusPane" 
+                Grid.Row="1" 
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                Height="auto" />
+
+        <Canvas Name="controlPane" 
+                Grid.Column="0"
+                Grid.Row="0"
+                Grid.RowSpan="1" 
+                Background="FloralWhite" 
+                HorizontalAlignment="Left" 
+                Margin="0,10" 
+                Width="0"/>
+
+    </Grid>
+</Window>

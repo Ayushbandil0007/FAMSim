@@ -1,0 +1,24 @@
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WPFChart\WPFChart\bin\Debug\WPFChart.exe
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WPFChart\WPFChart\bin\Debug\WPFChart.pdb
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WPFChart\WPFChart\obj\Debug\WPFChart.csprojResolveAssemblyReference.cache
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WPFChart\WPFChart\obj\Debug\Window1.baml
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WPFChart\WPFChart\obj\Debug\Window1.g.cs
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WPFChart\WPFChart\obj\Debug\App.g.cs
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WPFChart\WPFChart\obj\Debug\WPFChart_MarkupCompile.cache
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WPFChart\WPFChart\obj\Debug\WPFChart.g.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WPFChart\WPFChart\obj\Debug\WPFChart.Properties.Resources.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WPFChart\WPFChart\obj\Debug\WPFChart.csproj.GenerateResource.Cache
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WPFChart\WPFChart\obj\Debug\WPFChart.exe
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WPFChart\WPFChart\obj\Debug\WPFChart.pdb
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\bin\Debug\WPFChart.exe
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\bin\Debug\WPFChart.pdb
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Debug\WPFChart.csprojResolveAssemblyReference.cache
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Debug\Window1.baml
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Debug\Window1.g.cs
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Debug\App.g.cs
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Debug\WPFChart_MarkupCompile.cache
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Debug\WPFChart.g.resources
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Debug\WPFChart.Properties.Resources.resources
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Debug\WPFChart.csproj.GenerateResource.Cache
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Debug\WPFChart.exe
+D:\Courses\SEM 10\DDP\WPFChart\WPFChart\obj\Debug\WPFChart.pdb

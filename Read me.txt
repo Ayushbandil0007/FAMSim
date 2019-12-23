@@ -1,0 +1,27 @@
+                       ||   Force Modeling for Oblique Cutting on Non-Planar Surfaces   ||
+Author: Ayush Bandil
+roll number: 12D100033
+Contact details: ayushbandil0007@gmail.com, 9769474580
+Year of graduation: 2017
+
+The folder contains code in matlab and in C#. 
+All the reference images are drown in powerpoint. 
+The ppt's are present in "images PPT" folder.
+
+Abstract: 
+	Precision machining is one of the most important and widely used manufacturing processes these days. A very tight tolerance limit over free form surfaces
+is required in some industries like aerospace and defense. This can be achieved by introducing two more degrees of freedom (the lead and tilt angles) to 
+the conventional 3-axis milling process in order to reduce cutting forces. This report focuses on the development of a methodology to predict cutting forces
+and the torque generated during multi-axis generic profile milling processes. This report focuses on development of three different models. The first model
+is developed assuming a planar workpiece and a ball-end cutting tool having only horizontal feed of tool. The second model is developed for ball-end mill 
+on planar surfaces having vertical feed along with the horizontal feed. Finally, the third model is for general milling having cutting edge wrapped around 
+the tool envelope. Later the third model is extended to incorporate different kinds of workpiece profiles. All these models are based on the mechanistic 
+approach in which basic orthogonal cutting parameters of the shear-zone are determined by using a regression curve fitting of several experimental results.
+ 
+	The Orthogonal Cutting Database (OCD), which converts orthogonal cutting parameters to oblique cutting parameters is developed for Titanium alloy. 
+The methodology follows a modular approach to model the forces. The tool surface is discretized into smaller elements first and then the forces are calculated 
+considering each element undergoing the orthogonal cutting process. The elemental forces are added up to give the net force experienced by the cutting tool. 
+To validate the results, the results are benchmarked against data in published literature. The maximum force is calculated using the given values of lead and 
+tilt angles. Furthermore, lead and tilt angles are determined to minimize the maximum cutting force at any angular position of the tool. These lead and tilt 
+angles will result in the most precise machining process. The model can be further used for selection of other machining parameters and several aspects of 
+machining processes from tool-geometry design which will reduce the cutting forces and torque on the cutting tool.

@@ -1,0 +1,42 @@
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LoadingScreen.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SelectToolForm.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ToolInitialPositionForm.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ToolParametersForm.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TaskSelectionForm.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.GraphicalOutputForm.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.GenerateCustomSurface.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FindLeadAndTiltForm.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.PleaseWaitForm.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WPFChart.exe
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WPFChart.pdb
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SelectWorkpieceProfileForm.resources
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FAMSim1.0.exe.config
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FAMSim1.0.exe
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FAMSim1.0.pdb
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\FAMSim1.0.exe
+C:\Users\Ayush Bandil\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\FAMSim1.0.pdb
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FAMSim1.0.exe.config
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.ResolveComReference.cache
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\FAMSim1.0.exe
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\FAMSim1.0.pdb
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FAMSim1.0.exe
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\FAMSim1.0.pdb
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WPFChart.exe
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WPFChart.pdb
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.GenerateCustomSurface.resources
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.GraphicalOutputForm.resources
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LoadingScreen.resources
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FindLeadAndTiltForm.resources
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.PleaseWaitForm.resources
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SelectWorkpieceProfileForm.resources
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SelectToolForm.resources
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TaskSelectionForm.resources
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ToolInitialPositionForm.resources
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ToolParametersForm.resources
+D:\Courses\SEM 10\DDP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
